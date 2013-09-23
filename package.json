@@ -1,0 +1,19 @@
+{
+  "name": "red",
+  "version": "0.0.0",
+  "description": "desc",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": "",
+  "keywords": [
+    "js"
+  ],
+  "author": "eu",
+  "license": "BSD",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-copy": "~0.4.1"
+  }
+}
